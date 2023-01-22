@@ -9,7 +9,7 @@
 
 img.profile {
 	border-radius: 50%;
-	border: 3.5px solid rgb(253, 139, 16);
+	border: 4px solid rgb(253, 139, 16);
 	box-shadow: 0 4px 8px 0 rgba(255, 0, 0, 0.424), 0 6px 20px 0 rgba(255, 0, 0, 0.452);
 	transition: width 2s, height 2s, transform 2s;
 }
